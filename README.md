@@ -1,6 +1,6 @@
-# 👋 Hey, I'm a Tech Student!
+#  Whatsupp guys, I'm a Tech Student!
 
-### 💻 IT Student | Aspiring Software Developer
+### 💻 IT Student From Politeknik Negeri Ketapang | Aspiring Software Developer
 
 Welcome to my GitHub profile! 🚀
 
