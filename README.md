@@ -10,7 +10,7 @@ I'm still at the beginning of my journey, but I believe that **small progress ev
 
 - 🌱 Currently learning **Dart & programming fundamentals**
 - 🛠️ Practicing by building small projects and completing coursework
-- 🎯 Goal: Become a skilled software developer
+- 🎯 Goal: Become a skilled software developer and video editing expert
 - 🇮🇩 Based in Indonesia
 - ⚡ Motto: *Learn, Build, Improve, Repeat.*
 
@@ -40,7 +40,7 @@ Small programming projects created to practice coding logic, functions, and prob
 
 - 💡 Focus: Programming fundamentals
 - 📚 Purpose: Learning through practice and experimentation
-- 🔗 Repository: [Add your Dart project link here](https://github.com/)
+- 🔗 Repository: https://github.com/xionvv/pbb1-naufal
 
 > More projects will be added as I continue learning and building.
 
